@@ -77,12 +77,12 @@ This repo includes a Go CLI scaffold using **Cobra + Viper**.
 
 ## Docs
 
-- `docs/requirements.md` — what the system must do
-- `docs/tdd.md` — design + algorithms (base36, counter, UUID)
-- `docs/alphabet.md` — the glyph tables (core-36 + UUID prefix set)
-- `docs/cli.md` — CLI behavior, config file, flags
-- `docs/examples.md` — worked examples + sort demonstrations
-- `docs/font-compat.md` — practical rendering notes + “known good” fonts
+- [`docs/requirements.md`](docs/requirements.md) — what the system must do
+- [`docs/tdd.md`](docs/tdd.md) — design + algorithms (base36, counter, UUID)
+- [`docs/alphabet.md`](docs/alphabet.md) — the glyph tables (core-36 + UUID prefix set)
+- [`docs/cli.md`](docs/cli.md) — CLI behavior, config file, flags
+- [`docs/examples.md`](docs/examples.md) — worked examples + sort demonstrations
+- [`docs/font-compat.md`](docs/font-compat.md) — practical rendering notes + “known good” fonts
 
 ---
 
