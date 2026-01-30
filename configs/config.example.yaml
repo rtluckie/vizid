@@ -1,0 +1,13 @@
+timezone: "UTC"
+custom: false
+warn: true
+
+components:
+  year: true
+  month: true
+  day: true
+  hour: true
+  minute: true
+  second: true
+  ms: true
+  uuid: true
